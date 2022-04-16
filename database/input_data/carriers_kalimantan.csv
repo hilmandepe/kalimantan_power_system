@@ -1,0 +1,11 @@
+﻿carrier,co2_emissions
+Coal,0.3636
+Gas,0.2016
+Geothermal,0
+Run_of_River,0
+Solar,0
+Wind_Onshore,0
+Wind_Offshore,0
+OTEC,0
+Oil,0.2664
+Biomass,0.23

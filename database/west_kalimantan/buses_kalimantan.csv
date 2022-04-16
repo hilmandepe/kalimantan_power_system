@@ -1,0 +1,13 @@
+﻿name,type,x,y,v_nom,carrier,location
+GI_Sambas,substation,109.2688,1.3429,150,AC,Kalimantan Barat
+GI_Singkawang,substation,108.9876,0.9266,150,AC,Kalimantan Barat
+GI_PLTU_3_Kalbar,substation,108.8747,0.8361,150,AC,Kalimantan Barat
+GI_PLTU_2_Kalbar,substation,108.8653,0.83,150,AC,Kalimantan Barat
+GI_Senggiring,substation,108.9853,0.3162,150,AC,Kalimantan Barat
+GI_Parit_Baru,substation,109.2055,0.0592,150,AC,Kalimantan Barat
+GI_Kota_Baru,substation,109.2987,-0.0754,150,AC,Kalimantan Barat
+GI_Siantan,substation,109.328,-0.0002,150,AC,Kalimantan Barat
+GI_Sei_Raya,substation,109.3809,-0.0735,150,AC,Kalimantan Barat
+GI_Tayan,substation,110.0932,0.0015,150,AC,Kalimantan Barat
+GI_Ngabang,substation,110.001,0.3534,150,AC,Kalimantan Barat
+GI_Bengkayang,substation,109.4967,0.9056,150,AC,Kalimantan Barat

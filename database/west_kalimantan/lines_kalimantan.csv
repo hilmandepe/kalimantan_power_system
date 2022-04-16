@@ -1,0 +1,13 @@
+﻿bus0,bus1,v_nom,capital_cost,length,carrier,x,subs0,subs1
+0,1,150,10,59.2,AC,0.32,GI_Sambas,GI_Singkawang
+1,3,150,10,20.829,AC,0.32,GI_Singkawang,GI_PLTU_2_Kalbar
+3,2,150,10,1.393,AC,0.32,GI_PLTU_2_Kalbar,GI_PLTU_3_Kalbar
+1,4,150,10,70.613,AC,0.32,GI_Singkawang,GI_Senggiring
+4,5,150,10,42.848,AC,0.32,GI_Senggiring,GI_Parit_Baru
+5,6,150,10,22.011,AC,0.32,GI_Parit_Baru,GI_Kota_Baru
+5,7,150,10,16.708,AC,0.32,GI_Parit_Baru,GI_Siantan
+7,8,150,10,18.14,AC,0.32,GI_Siantan,GI_Sei_Raya
+7,9,150,10,99.173,AC,0.32,GI_Siantan,GI_Tayan
+9,10,150,10,47.271,AC,0.32,GI_Tayan,GI_Ngabang
+10,11,150,10,95.473,AC,0.32,GI_Ngabang,GI_Bengkayang
+11,1,150,10,73.947,AC,0.32,GI_Bengkayang,GI_Singkawang
